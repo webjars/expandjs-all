@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>expandjs-all</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>Expand JS All</name>
     <description>WebJar for Expand JS compendium</description>
     <url>http://webjars.org</url>
@@ -42,7 +42,7 @@
         <url>http://github.com/webjars/expandjs-all</url>
         <connection>scm:git:https://github.com/webjars/expandjs-all.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/expandjs-all.git</developerConnection>
-        <tag>expandjs-all-0.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
