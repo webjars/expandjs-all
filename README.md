@@ -1,2 +1,2 @@
-# webjars-expandjs-all
-A bower based compendium JAR of ExpandJS web components.
+# expandjs-all
+A bower-based compendium Webjar of ExpandJS web components.
