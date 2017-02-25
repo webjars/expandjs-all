@@ -1,0 +1,22 @@
+{
+  "name": "expandjs-all",
+  "version": "2017-02-24",
+  "authors": [
+    "ExpandJS"
+  ],
+  "description": "Expand JS compendium",
+  "main": "dist/index.html",
+  "license": "http://github.com/expandjs/expandjs/LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "app-behaviors": "expandjs/app-behaviors",
+    "mat-elements": "expandjs/mat-elements"
+  }
+}
